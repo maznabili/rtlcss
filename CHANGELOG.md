@@ -1,3 +1,10 @@
+## 2.5.0 - 08 Feb. 2020
+  * `useCalc` to flip unit based `transform-origin`.
+  * CLI: use `console.log` instead of the [deprecated](https://nodejs.org/docs/latest-v10.x/api/util.html#util_util_print_strings) `util.print`(issue #156).
+
+## 2.4.1 - 28 Nov. 2019
+  * Ignore white spaces before directives prefix.
+
 ## 2.4.0 - 20 Jun. 2018
   * New Option:
     * `useCalc` (default: `false`) to flip unit based `background-position` using `calc`. **Thanks @zoreet**
